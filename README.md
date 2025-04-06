@@ -5,7 +5,7 @@ Hi! It's a new version of Christmas Ware, and so i renamed it. Also i do new men
  - Redesign menu
  - Do menu like a Swift.
  - WebScriptHub
- - CustomAPI
+ - CzkAPI
  - So many settings
 # Enjoy exploiting!
 # It's all lol
